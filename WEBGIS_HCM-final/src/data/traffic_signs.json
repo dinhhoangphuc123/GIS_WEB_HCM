@@ -1,0 +1,652 @@
+[
+  {
+    "id": "S001",
+    "coords": [
+      10.758879,
+      106.659558
+    ],
+    "info": {
+      "Mã biển báo": "S001",
+      "Tên đường": "Âu Cơ",
+      "Loại biển báo": "Biển 1 chiều",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S002",
+    "coords": [
+      10.836651,
+      106.697536
+    ],
+    "info": {
+      "Mã biển báo": "S002",
+      "Tên đường": "Nguyễn Văn Cừ",
+      "Loại biển báo": "Biển nguy hiểm",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S003",
+    "coords": [
+      10.731623,
+      106.665717
+    ],
+    "info": {
+      "Mã biển báo": "S003",
+      "Tên đường": "Đồng Khởi",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S004",
+    "coords": [
+      10.853954,
+      106.632892
+    ],
+    "info": {
+      "Mã biển báo": "S004",
+      "Tên đường": "Phạm Ngọc Thạch",
+      "Loại biển báo": "Biển nguy hiểm",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S005",
+    "coords": [
+      10.824092,
+      106.733027
+    ],
+    "info": {
+      "Mã biển báo": "S005",
+      "Tên đường": "Cách Mạng Tháng 8",
+      "Loại biển báo": "Biển tốc độ",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S006",
+    "coords": [
+      10.769632,
+      106.694548
+    ],
+    "info": {
+      "Mã biển báo": "S006",
+      "Tên đường": "Võ Văn Kiệt",
+      "Loại biển báo": "Biển tốc độ",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S007",
+    "coords": [
+      10.783022,
+      106.764774
+    ],
+    "info": {
+      "Mã biển báo": "S007",
+      "Tên đường": "Hàm Nghi",
+      "Loại biển báo": "Biển chỉ dẫn",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S008",
+    "coords": [
+      10.852099,
+      106.71211
+    ],
+    "info": {
+      "Mã biển báo": "S008",
+      "Tên đường": "Lê Duẩn",
+      "Loại biển báo": "Biển hiệu lệnh",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S009",
+    "coords": [
+      10.764792,
+      106.682398
+    ],
+    "info": {
+      "Mã biển báo": "S009",
+      "Tên đường": "Trần Phú",
+      "Loại biển báo": "Biển hiệu lệnh",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S010",
+    "coords": [
+      10.752913,
+      106.689734
+    ],
+    "info": {
+      "Mã biển báo": "S010",
+      "Tên đường": "Đồng Khởi",
+      "Loại biển báo": "Biển tốc độ",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S011",
+    "coords": [
+      10.820331,
+      106.747703
+    ],
+    "info": {
+      "Mã biển báo": "S011",
+      "Tên đường": "Võ Văn Kiệt",
+      "Loại biển báo": "Biển 1 chiều",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S012",
+    "coords": [
+      10.790109,
+      106.64042
+    ],
+    "info": {
+      "Mã biển báo": "S012",
+      "Tên đường": "Phó Đức Chính",
+      "Loại biển báo": "Biển chỉ dẫn",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S013",
+    "coords": [
+      10.779103,
+      106.710303
+    ],
+    "info": {
+      "Mã biển báo": "S013",
+      "Tên đường": "Hùng Vương",
+      "Loại biển báo": "Biển tốc độ",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S014",
+    "coords": [
+      10.784292,
+      106.758696
+    ],
+    "info": {
+      "Mã biển báo": "S014",
+      "Tên đường": "Lý Tự Trọng",
+      "Loại biển báo": "Biển nguy hiểm",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S015",
+    "coords": [
+      10.776866,
+      106.653866
+    ],
+    "info": {
+      "Mã biển báo": "S015",
+      "Tên đường": "Âu Cơ",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S016",
+    "coords": [
+      10.851946,
+      106.664521
+    ],
+    "info": {
+      "Mã biển báo": "S016",
+      "Tên đường": "Võ Văn Kiệt",
+      "Loại biển báo": "Biển hiệu lệnh",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S017",
+    "coords": [
+      10.732286,
+      106.623101
+    ],
+    "info": {
+      "Mã biển báo": "S017",
+      "Tên đường": "Lê Duẩn",
+      "Loại biển báo": "Biển chỉ dẫn",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S018",
+    "coords": [
+      10.753633,
+      106.630979
+    ],
+    "info": {
+      "Mã biển báo": "S018",
+      "Tên đường": "Âu Cơ",
+      "Loại biển báo": "Biển 1 chiều",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S019",
+    "coords": [
+      10.724654,
+      106.659565
+    ],
+    "info": {
+      "Mã biển báo": "S019",
+      "Tên đường": "Nguyễn Thị Minh Khai",
+      "Loại biển báo": "Biển tốc độ",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S020",
+    "coords": [
+      10.738933,
+      106.727113
+    ],
+    "info": {
+      "Mã biển báo": "S020",
+      "Tên đường": "Nguyễn Văn Cừ",
+      "Loại biển báo": "Biển chỉ dẫn",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S021",
+    "coords": [
+      10.82492,
+      106.742704
+    ],
+    "info": {
+      "Mã biển báo": "S021",
+      "Tên đường": "Âu Cơ",
+      "Loại biển báo": "Biển nguy hiểm",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S022",
+    "coords": [
+      10.842895,
+      106.774355
+    ],
+    "info": {
+      "Mã biển báo": "S022",
+      "Tên đường": "Phó Đức Chính",
+      "Loại biển báo": "Biển tốc độ",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S023",
+    "coords": [
+      10.766794,
+      106.728376
+    ],
+    "info": {
+      "Mã biển báo": "S023",
+      "Tên đường": "Tô Hiến Thành",
+      "Loại biển báo": "Biển hiệu lệnh",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S024",
+    "coords": [
+      10.749749,
+      106.714736
+    ],
+    "info": {
+      "Mã biển báo": "S024",
+      "Tên đường": "Điện Biên Phủ",
+      "Loại biển báo": "Biển 1 chiều",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S025",
+    "coords": [
+      10.824579,
+      106.668253
+    ],
+    "info": {
+      "Mã biển báo": "S025",
+      "Tên đường": "Lạc Long Quân",
+      "Loại biển báo": "Biển 1 chiều",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S026",
+    "coords": [
+      10.867577,
+      106.745222
+    ],
+    "info": {
+      "Mã biển báo": "S026",
+      "Tên đường": "Trường Chinh",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S027",
+    "coords": [
+      10.775586,
+      106.700954
+    ],
+    "info": {
+      "Mã biển báo": "S027",
+      "Tên đường": "Hàm Nghi",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S028",
+    "coords": [
+      10.783009,
+      106.698432
+    ],
+    "info": {
+      "Mã biển báo": "S028",
+      "Tên đường": "Hùng Vương",
+      "Loại biển báo": "Biển hiệu lệnh",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S029",
+    "coords": [
+      10.853736,
+      106.693558
+    ],
+    "info": {
+      "Mã biển báo": "S029",
+      "Tên đường": "Hai Bà Trưng",
+      "Loại biển báo": "Biển nguy hiểm",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S030",
+    "coords": [
+      10.830069,
+      106.774476
+    ],
+    "info": {
+      "Mã biển báo": "S030",
+      "Tên đường": "Nguyễn Văn Cừ",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S031",
+    "coords": [
+      10.785336,
+      106.736964
+    ],
+    "info": {
+      "Mã biển báo": "S031",
+      "Tên đường": "Hàm Nghi",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S032",
+    "coords": [
+      10.756824,
+      106.76954
+    ],
+    "info": {
+      "Mã biển báo": "S032",
+      "Tên đường": "Nguyễn Thị Minh Khai",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S033",
+    "coords": [
+      10.832571,
+      106.711176
+    ],
+    "info": {
+      "Mã biển báo": "S033",
+      "Tên đường": "Đồng Khởi",
+      "Loại biển báo": "Biển 1 chiều",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S034",
+    "coords": [
+      10.724305,
+      106.756152
+    ],
+    "info": {
+      "Mã biển báo": "S034",
+      "Tên đường": "Nam Kỳ Khởi Nghĩa",
+      "Loại biển báo": "Biển nguy hiểm",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S035",
+    "coords": [
+      10.773224,
+      106.661336
+    ],
+    "info": {
+      "Mã biển báo": "S035",
+      "Tên đường": "Lê Văn Sỹ",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S036",
+    "coords": [
+      10.721523,
+      106.77169
+    ],
+    "info": {
+      "Mã biển báo": "S036",
+      "Tên đường": "Nguyễn Tri Phương",
+      "Loại biển báo": "Biển tốc độ",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S037",
+    "coords": [
+      10.780964,
+      106.708828
+    ],
+    "info": {
+      "Mã biển báo": "S037",
+      "Tên đường": "Hùng Vương",
+      "Loại biển báo": "Biển nguy hiểm",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S038",
+    "coords": [
+      10.826776,
+      106.691708
+    ],
+    "info": {
+      "Mã biển báo": "S038",
+      "Tên đường": "Pasteur",
+      "Loại biển báo": "Biển tốc độ",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S039",
+    "coords": [
+      10.753239,
+      106.730686
+    ],
+    "info": {
+      "Mã biển báo": "S039",
+      "Tên đường": "Trần Phú",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S040",
+    "coords": [
+      10.803021,
+      106.675001
+    ],
+    "info": {
+      "Mã biển báo": "S040",
+      "Tên đường": "Lê Duẩn",
+      "Loại biển báo": "Biển 1 chiều",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S041",
+    "coords": [
+      10.825428,
+      106.663347
+    ],
+    "info": {
+      "Mã biển báo": "S041",
+      "Tên đường": "Điện Biên Phủ",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S042",
+    "coords": [
+      10.828193,
+      106.670488
+    ],
+    "info": {
+      "Mã biển báo": "S042",
+      "Tên đường": "Nam Kỳ Khởi Nghĩa",
+      "Loại biển báo": "Biển 1 chiều",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S043",
+    "coords": [
+      10.752458,
+      106.697472
+    ],
+    "info": {
+      "Mã biển báo": "S043",
+      "Tên đường": "Điện Biên Phủ",
+      "Loại biển báo": "Biển 1 chiều",
+      "Phương tiện áp dụng": "Ô tô"
+    }
+  },
+  {
+    "id": "S044",
+    "coords": [
+      10.844894,
+      106.667399
+    ],
+    "info": {
+      "Mã biển báo": "S044",
+      "Tên đường": "Pasteur",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Moto"
+    }
+  },
+  {
+    "id": "S045",
+    "coords": [
+      10.722122,
+      106.705462
+    ],
+    "info": {
+      "Mã biển báo": "S045",
+      "Tên đường": "Lê Lợi",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S046",
+    "coords": [
+      10.803004,
+      106.731587
+    ],
+    "info": {
+      "Mã biển báo": "S046",
+      "Tên đường": "Điện Biên Phủ",
+      "Loại biển báo": "Biển nguy hiểm",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S047",
+    "coords": [
+      10.850908,
+      106.71185
+    ],
+    "info": {
+      "Mã biển báo": "S047",
+      "Tên đường": "Nguyễn Văn Cừ",
+      "Loại biển báo": "Biển hiệu lệnh",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S048",
+    "coords": [
+      10.771106,
+      106.77448
+    ],
+    "info": {
+      "Mã biển báo": "S048",
+      "Tên đường": "Điện Biên Phủ",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Xe tải"
+    }
+  },
+  {
+    "id": "S049",
+    "coords": [
+      10.843317,
+      106.684113
+    ],
+    "info": {
+      "Mã biển báo": "S049",
+      "Tên đường": "Võ Thị Sáu",
+      "Loại biển báo": "Biển tốc độ",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  },
+  {
+    "id": "S050",
+    "coords": [
+      10.74238,
+      106.710054
+    ],
+    "info": {
+      "Mã biển báo": "S050",
+      "Tên đường": "Nguyễn Thị Minh Khai",
+      "Loại biển báo": "Biển cấm",
+      "Phương tiện áp dụng": "Xe máy"
+    }
+  }
+]

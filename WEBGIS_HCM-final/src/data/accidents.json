@@ -1,0 +1,802 @@
+[
+  {
+    "id": "A001",
+    "coords": [
+      10.815914,
+      106.624002
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A001",
+      "Tên đường": "Nguyễn Tri Phương",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A002",
+    "coords": [
+      10.735374,
+      106.738507
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A002",
+      "Tên đường": "Lê Lợi",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A003",
+    "coords": [
+      10.72447,
+      106.654982
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A003",
+      "Tên đường": "Tô Hiến Thành",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A004",
+    "coords": [
+      10.817483,
+      106.707191
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A004",
+      "Tên đường": "Lạc Long Quân",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A005",
+    "coords": [
+      10.850395,
+      106.741409
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A005",
+      "Tên đường": "Võ Thị Sáu",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A006",
+    "coords": [
+      10.752297,
+      106.742159
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A006",
+      "Tên đường": "Lê Duẩn",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A007",
+    "coords": [
+      10.847124,
+      106.716596
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A007",
+      "Tên đường": "Lê Văn Sỹ",
+      "Tần suất tai nạn": "Trên 3 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A008",
+    "coords": [
+      10.738724,
+      106.767567
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A008",
+      "Tên đường": "Hoàng Diệu",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A009",
+    "coords": [
+      10.748843,
+      106.631129
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A009",
+      "Tên đường": "Hàm Nghi",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A010",
+    "coords": [
+      10.754919,
+      106.63616
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A010",
+      "Tên đường": "Hai Bà Trưng",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A011",
+    "coords": [
+      10.775527,
+      106.653521
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A011",
+      "Tên đường": "Lê Văn Sỹ",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A012",
+    "coords": [
+      10.829369,
+      106.646144
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A012",
+      "Tên đường": "Trường Chinh",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A013",
+    "coords": [
+      10.768642,
+      106.74293
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A013",
+      "Tên đường": "Phạm Ngọc Thạch",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A014",
+    "coords": [
+      10.760161,
+      106.653757
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A014",
+      "Tên đường": "Phạm Ngọc Thạch",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A015",
+    "coords": [
+      10.852702,
+      106.722856
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A015",
+      "Tên đường": "Nguyễn Tri Phương",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A016",
+    "coords": [
+      10.804205,
+      106.662039
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A016",
+      "Tên đường": "Lê Duẩn",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A017",
+    "coords": [
+      10.752898,
+      106.779606
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A017",
+      "Tên đường": "Hàm Nghi",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A018",
+    "coords": [
+      10.736447,
+      106.720391
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A018",
+      "Tên đường": "Phạm Ngọc Thạch",
+      "Tần suất tai nạn": "Trên 3 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A019",
+    "coords": [
+      10.777243,
+      106.779379
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A019",
+      "Tên đường": "Trường Chinh",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A020",
+    "coords": [
+      10.828108,
+      106.729074
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A020",
+      "Tên đường": "Điện Biên Phủ",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A021",
+    "coords": [
+      10.764025,
+      106.645305
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A021",
+      "Tên đường": "Bà Huyện Thanh Quan",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A022",
+    "coords": [
+      10.856894,
+      106.759283
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A022",
+      "Tên đường": "Võ Thị Sáu",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A023",
+    "coords": [
+      10.776087,
+      106.645848
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A023",
+      "Tên đường": "Trần Phú",
+      "Tần suất tai nạn": "Trên 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A024",
+    "coords": [
+      10.722922,
+      106.768656
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A024",
+      "Tên đường": "Nguyễn Thị Minh Khai",
+      "Tần suất tai nạn": "Trên 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A025",
+    "coords": [
+      10.851701,
+      106.771512
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A025",
+      "Tên đường": "Võ Thị Sáu",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A026",
+    "coords": [
+      10.818963,
+      106.771496
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A026",
+      "Tên đường": "Nam Kỳ Khởi Nghĩa",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A027",
+    "coords": [
+      10.859337,
+      106.740842
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A027",
+      "Tên đường": "Phạm Ngọc Thạch",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A028",
+    "coords": [
+      10.869272,
+      106.72398
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A028",
+      "Tên đường": "Nguyễn Thị Minh Khai",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A029",
+    "coords": [
+      10.753705,
+      106.674094
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A029",
+      "Tên đường": "Nguyễn Huệ",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A030",
+    "coords": [
+      10.730649,
+      106.720976
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A030",
+      "Tên đường": "Trần Hưng Đạo",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A031",
+    "coords": [
+      10.797123,
+      106.664556
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A031",
+      "Tên đường": "Nguyễn Tri Phương",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A032",
+    "coords": [
+      10.860327,
+      106.711367
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A032",
+      "Tên đường": "Nam Kỳ Khởi Nghĩa",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A033",
+    "coords": [
+      10.734149,
+      106.725437
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A033",
+      "Tên đường": "Hàm Nghi",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A034",
+    "coords": [
+      10.829361,
+      106.727738
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A034",
+      "Tên đường": "Nguyễn Tri Phương",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A035",
+    "coords": [
+      10.770895,
+      106.757868
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A035",
+      "Tên đường": "Võ Thị Sáu",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A036",
+    "coords": [
+      10.783282,
+      106.664567
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A036",
+      "Tên đường": "Lê Lợi",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A037",
+    "coords": [
+      10.817822,
+      106.706494
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A037",
+      "Tên đường": "Cách Mạng Tháng 8",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A038",
+    "coords": [
+      10.792846,
+      106.6542
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A038",
+      "Tên đường": "Nguyễn Huệ",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A039",
+    "coords": [
+      10.867796,
+      106.662432
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A039",
+      "Tên đường": "Tô Hiến Thành",
+      "Tần suất tai nạn": "Trên 3 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi tối"
+    }
+  },
+  {
+    "id": "A040",
+    "coords": [
+      10.863598,
+      106.779268
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A040",
+      "Tên đường": "Pasteur",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A041",
+    "coords": [
+      10.752655,
+      106.629357
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A041",
+      "Tên đường": "Lê Lợi",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A042",
+    "coords": [
+      10.727521,
+      106.696286
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A042",
+      "Tên đường": "Bà Huyện Thanh Quan",
+      "Tần suất tai nạn": "Trên 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A043",
+    "coords": [
+      10.732017,
+      106.649732
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A043",
+      "Tên đường": "Phạm Ngọc Thạch",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A044",
+    "coords": [
+      10.737983,
+      106.762446
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A044",
+      "Tên đường": "Bùi Thị Xuân",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A045",
+    "coords": [
+      10.732298,
+      106.72518
+    ],
+    "severity_class": "high",
+    "info": {
+      "Mã tai nạn": "A045",
+      "Tên đường": "Nam Kỳ Khởi Nghĩa",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Nặng",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A046",
+    "coords": [
+      10.820459,
+      106.670269
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A046",
+      "Tên đường": "Nguyễn Văn Cừ",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  },
+  {
+    "id": "A047",
+    "coords": [
+      10.767427,
+      106.740298
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A047",
+      "Tên đường": "Trần Hưng Đạo",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Ô tô",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A048",
+    "coords": [
+      10.800645,
+      106.700942
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A048",
+      "Tên đường": "Lê Duẩn",
+      "Tần suất tai nạn": "0 – 1 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi trưa"
+    }
+  },
+  {
+    "id": "A049",
+    "coords": [
+      10.762748,
+      106.69011
+    ],
+    "severity_class": "medium",
+    "info": {
+      "Mã tai nạn": "A049",
+      "Tên đường": "Trường Chinh",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Ô tô - Ô tô",
+      "Mức độ nghiêm trọng": "Trung bình",
+      "Khung giờ xảy ra": "Buổi sáng"
+    }
+  },
+  {
+    "id": "A050",
+    "coords": [
+      10.842566,
+      106.667901
+    ],
+    "severity_class": "low",
+    "info": {
+      "Mã tai nạn": "A050",
+      "Tên đường": "Điện Biên Phủ",
+      "Tần suất tai nạn": "2 – 3 vụ",
+      "Loại tai nạn": "Xe máy - Xe máy",
+      "Mức độ nghiêm trọng": "Nhẹ",
+      "Khung giờ xảy ra": "Buổi chiều"
+    }
+  }
+]

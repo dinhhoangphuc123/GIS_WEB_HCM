@@ -1,0 +1,12 @@
+[
+  { "id": "R001", "name": "Lê Duẩn",              "type": "Đường phố", "quality": 6, "lanes": 4 },
+  { "id": "R002", "name": "Điện Biên Phủ",        "type": "Đại lộ",    "quality": 9, "lanes": 6 },
+  { "id": "R003", "name": "Nguyễn Huệ",           "type": "Phố đi bộ", "quality": 10,"lanes": 0 },
+  { "id": "R004", "name": "Xa lộ Hà Nội",         "type": "Quốc lộ",   "quality": 8, "lanes": 6 },
+  { "id": "R005", "name": "Cách Mạng Tháng 8",    "type": "Đường phố", "quality": 7, "lanes": 4 },
+  { "id": "R006", "name": "Phạm Văn Đồng",        "type": "Đại lộ",    "quality": 9, "lanes": 8 },
+  { "id": "R007", "name": "Trường Sa",             "type": "Ven kênh",  "quality": 7, "lanes": 2 },
+  { "id": "R008", "name": "Võ Văn Kiệt",          "type": "Đại lộ",    "quality": 9, "lanes": 8 },
+  { "id": "R009", "name": "Cao tốc HCM–Long Thành","type": "Cao tốc",  "quality": 10,"lanes": 6 },
+  { "id": "R010", "name": "Bùi Viện",             "type": "Hẻm",       "quality": 3, "lanes": 1 }
+]
